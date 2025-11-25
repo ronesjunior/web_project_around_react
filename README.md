@@ -1,16 +1,28 @@
-# React + Vite
+# Sprint 13: EUA Afora conectando ao servidor
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A página é o novo projeto no programa de desenvolvimento web da TripleTen. Ela foi criada usando HTML, CSS e Javascript, com base no figma.
 
-Currently, two official plugins are available:
+## Recursos do projeto
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- HTML5 semântico
+- Flexbox
+- Grid
+- Posicionamento
+- Figma
+- Responsivo (@media)
+- Pseudoclasse (hover, active)
+- Javascript (addEventListener, querySelector, textContent, validationMessage, checkValidity(), validity). Ação de botão para abertura de popup com formulários para alteração de textcontent
+- Cards com imagens
+- Javascritp para exclusão de cards, inserção de cards, botão like, popup de card, popup formulários, validações de campos com mensagens padrões dos navegadores.
+- Herança, polimorfismo e encapsulamento
+- Import e export arquivos javascript
+- Propriedade this
+- Métodos privados e públicos
+- Aplicação do gerenciador de pacotes ofical do Node.js NPM, gerenciando bibliotecas Javascript
+- Programação assíncrona;
+- Callbacks;
+- Promessas (promisse);
+- API's (protocolo de transferênica de Hipertexto HTTP, formato JSON);
+- # React + Vite
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+link para acesso: https://ronesjunior.github.io/sprint_13_tripleten/
