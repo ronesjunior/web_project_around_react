@@ -2,8 +2,9 @@ import buttonTrash from "../../images/lixeira.png";
 import buttonLike from "../../images/like_button.svg";
 
 export default function Card(props) {
-  const { name, link, isLiked } = props.card;
+  const { name, link } = props.card;
   const { onImageClick } = props;
+
   return (
     <div className="element">
       <button

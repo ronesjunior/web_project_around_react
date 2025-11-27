@@ -3,7 +3,7 @@ import Main from "./Main/Main.jsx";
 import Footer from "./Footer/Footer.jsx";
 import "../index.css";
 
-function App() {
+export default function App() {
   return (
     <div className="page">
       <div className="page__content">
@@ -14,5 +14,3 @@ function App() {
     </div>
   );
 }
-
-export default App;
