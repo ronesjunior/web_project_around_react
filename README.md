@@ -1,4 +1,4 @@
-# Sprint 13: EUA Afora conectando ao servidor
+# Sprint 14: EUA Afora conectando ao servidor
 
 A página é o novo projeto no programa de desenvolvimento web da TripleTen. Ela foi criada usando HTML, CSS e Javascript, com base no figma.
 
@@ -26,4 +26,4 @@ A página é o novo projeto no programa de desenvolvimento web da TripleTen. Ela
 - # React + Vite
 - Roteamento React + gerenciamento de estado
 
-link para acesso: https://ronesjunior.github.io/sprint_14_tripleten/
+link para acesso: https://ronesjunior.github.io/web_project_around_react/
